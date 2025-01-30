@@ -10,6 +10,8 @@
 
 .StatWrapper h1 {
   color: #ae59ff;
+  font-family: 'Gilroy', sans-serif;
+  font-weight: 700;
 }
 
 .contentDiv {
@@ -42,11 +44,14 @@
 .leftContainer h3 {
   font-weight: 700;
   font-size: 35px;
+  font-family: 'Gilroy', sans-serif;
 }
 
 .leftContainer p {
   color: #ae59ff;
   font-size: 20px;
+  font-family: 'Gilroy', sans-serif;
+  font-weight: 700;
 }
 
 .rightContainer {
@@ -59,6 +64,8 @@
 
 .rightContainer h2{
   color: #ae59ff;
+  font-family: 'Gilroy', sans-serif;
+  font-weight: 700;
 }
 
 @media screen and (max-width: 540px) {
