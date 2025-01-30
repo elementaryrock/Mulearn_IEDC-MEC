@@ -4,6 +4,29 @@
     text-align: center;
 }
 
+.teamWrapper h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  font-family: 'Gilroy', sans-serif;
+  background: linear-gradient(45deg, #ae59ff, #7c3aed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: relative;
+  margin-bottom: 3rem;
+}
+
+.teamWrapper h1::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50px;
+  height: 4px;
+  background: linear-gradient(90deg, #ae59ff, #7c3aed);
+}
+
 .teamBodyWrapper {
     display: grid;
     gap: 1rem;
