@@ -1,0 +1,94 @@
+.teamCard {
+  display: flex;
+  flex-direction: row; /* Default layout for larger screens */
+  width: 100%; /* Full width on small screens */
+  max-width: 400px; /* Maximum width on larger screens */
+  height: auto; /* Adjust height automatically */
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
+  font-family: "Poppins", sans-serif;
+  background-color: #fff;
+  position: relative; /* For positioning LinkedIn icon */
+  margin: 1rem auto; /* Center the card */
+}
+
+.teamCard__image {
+  flex: 0 0 100px; /* Fixed width for image */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.photo {
+  border-radius: 0.5rem;
+  width: 150px; 
+  height: 150px;
+  object-fit: cover;
+  background-image: url("./Frame.png");
+}
+
+.teamCard__content {
+  flex: 1;
+  margin-left: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.teamCard__name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #ad58ff;
+  margin: 0.5rem 0;
+}
+
+.teamCard__designation {
+  font-size: 0.8rem;
+  color: #333;
+  margin: 0.5rem 0;
+}
+
+.teamCard__linkedin {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  justify-content: center;
+  z-index: 10; /* Ensure visibility */
+}
+
+.linkedinimg {
+  width: 24px;
+  height: 24px;
+}
+
+/* Media queries for responsive design */
+@media screen and (max-width: 1024px) {
+  .teamCard {
+    flex-direction: column; /* Stack items vertically on smaller screens */
+    align-items: center; /* Center items */
+    text-align: center; /* Center text */
+  }
+
+  .teamCard__image {
+    margin-bottom: 1rem; /* Add margin for spacing */
+  }
+
+  .photo {
+    width: 150px;
+    height: 150px;
+  }
+
+  .teamCard__content {
+    margin-left: 0; /* Remove margin on smaller screens */
+  }
+
+  .teamCard__name {
+    font-size: 1rem;
+  }
+
+  .teamCard__designation {
+    font-size: 0.8rem;
+  }
+}

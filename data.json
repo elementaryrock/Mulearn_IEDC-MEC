@@ -1,0 +1,361 @@
+{
+  "collegeCode": "MCE",
+  "college": "Marian Engineering College",
+  "about": "At the intersection of creativity and technology, IEDC and µLearn have joined forces to craft a space where ideas come to life and learning knows no bounds. Our collaborative platform is designed to empower innovators, creators, and learners, providing them with the tools, resources, and community they need to thrive. Explore, engage, and elevate your potential with us as we drive forward the future of technology and education together.",
+  "events": [
+    {
+      "month": "May",
+      "date": "13",
+      "head": "Eden 3.0",
+      "para": "It was a 24-hour coding event. Emphasised on collaboration, technical prowess, and personal growth.",
+      "img": "public/Teamphoto/ux.jpg"
+    },
+    {
+      "month": "Oct",
+      "date": "08",
+      "head": "UXcelerate Bootcamp",
+      "para": "UXcelerate was a 14 day bootcamp focused on equipping students with the fundamentals of UI/UX design using Figma.Conducted in two phases the sessions provided a balance between conceptual learning and hands-on application",
+      "img": "public/Teamphoto/test.png"
+    },
+    {
+      "month": "Nov",
+      "date": "28",
+      "head": "Keyboard Mastery",
+      "para": "The keyboard mastery program was designed to enhance participants' typing proficiency and efficiency",
+      "img": "public/Teamphoto/keyboard.jpg"
+    },
+    {
+      "month": "Sep",
+      "date": "11",
+      "head": "Shalyam",
+      "para": "Shalyam is an open-themed ideathon where participants are free to pick any problem and come up with a realizable solution.",
+      "img": "public/Teamphoto/shalyam.jpg"
+    },
+    {
+      "month": "Aug",
+      "date": "10",
+      "head": "Lumina",
+      "para": "The event was held featuring Deepu S Nath, MD of Faya and CEO of mulearn as the keynote speaker, engaging the students in an interactive  session on technology and their implications for society and the IT industry.",
+      "img": "public/Teamphoto/lumina.jpg"
+    },
+    {
+      "month": "Aug",
+      "date": "24",
+      "head": "Version Control 101",
+      "para": "Version Control 101 was a session focused on Git and provided an introduction to the basics of version  Control",
+      "img": "public/Teamphoto/lumina.jpg"
+    }
+  ],
+  "gallery": {
+    "row1": [
+      {
+        "image": "https://mulearn.org/assets/home/illustration.webp"
+      },
+      {
+        "image": "https://mulearn.org/assets/home/Chart.webp"
+      },
+      {
+        "image": "https://learn.mulearn.org/assets/challenge/typingsample.webp"
+      }
+    ],
+    "row2": [
+      {
+        "image": "public/Teamphoto/ux.jpg"
+      },
+      {
+        "image": "public/Teamphoto/keyboard.jpg"
+      },
+      {
+        "image": "public/Teamphoto/shalyam.jpg"
+      },
+      {
+        "image": "public/Teamphoto/lumina.jpg"
+      },
+      {
+        "image": "public/Teamphoto/keyboard.jpg"
+      },
+      {
+        "image": "public/Teamphoto/geo.png"
+      },
+      {
+        "image": "public/Teamphoto/anas.png"
+      },
+      {
+        "image": "public/Teamphoto/advaitha.png"
+      }
+    ]
+  },
+  "statistics": {
+    "studentsCount": 732,
+    "learningCircles": 47,
+    "InterestGroups": 4,
+    "karmaEarned": 498000,
+    "rank": 5
+  },
+  "team": {
+    "IEDC_faculty1": {
+      "name": "Dr  M Manoj",
+      "designation": "Nodal Officer",
+      "designation2": "",
+      "image": "/Teamphoto/Manoj.png",
+      "linkedIn": ""
+    },
+    "IEDC_faculty2": {
+      "name": "Dr  Sonia S Raj",
+      "designation": "Nodal Officer",
+      "designation2": "",
+      "image": "/Teamphoto/sonia.png",
+      "linkedIn": "https://www.researchgate.net/profile/Sonia-S-Raj-2"
+    },
+    "IEDC_faculty3": {
+      "name": "Dr  Vishnu B R",
+      "designation": "Ass. Nodal Officer",
+      "designation2": "",
+      "image": "/Teamphoto/vishnu.png",
+      "linkedIn": "https://www.linkedin.com/in/vishnu-b-r-a36227281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+      "ceoIEDC": {
+        "name": "Joan Liz Geogy",
+        "designation": "Chief Executive Officer IEDC",
+        "designation2": "",
+        "image": "/Teamphoto/JO.png",
+        "linkedIn": "https://www.linkedin.com/in/joan-liz-geogy/"
+      },
+      "cooIEDC1": {
+        "name": "Adithya A R",
+        "designation": "Chief Operations Officer IEDC",
+        "designation2": "Campus Lead µlearn",
+        "image": "/Teamphoto/adithya.png",
+        "linkedIn": "https://www.linkedin.com/in/adithya-rajesh-a07092247/ "
+      },
+      "creativeSubLeadIEDC": {
+        "name": "K H Arjun  ",
+        "designation": "Chief Creative Officer IEDC",
+        "designation2": "Campus Co-Lead , Web IG Lead µlearn",
+        "image": "/Teamphoto/arjun kh.png",
+        "linkedIn": "https://www.linkedin.com/in/k-h-arjun-310913206/  "
+      },
+      "technicalLeadIEDC": {
+        "name": "Govind S B",
+        "designation": "Chief Finance Officer IEDC",
+        "designation2": "",
+        "image": "/Teamphoto/govind.png",
+        "linkedIn": "https://www.linkedin.com/in/govind-vio/"
+      },
+      
+      "mulearnCampusCoLead": {
+        "name": "Advaitha S Das",
+        "designation": "Chief Documentation Officer IEDC",
+        "designation2": "",
+        "image": "/Teamphoto/advaitha.png",
+        "linkedIn": "https://www.linkedin.com/in/advaitha-sanal-b87888268/"
+      },
+      "mulearnSocialMediaLead": {
+        "name": "Ashwin A Murali ",
+        "designation": "Chief Technical Officer IEDC",
+        "designation2": "",
+        "image": "/Teamphoto/Aswin.png",
+        "linkedIn": "https://www.linkedin.com/in/ashwin271/"
+      },
+      "communityLeadIEDC": {
+        "name": "Geo Mathew Joseph",
+        "designation": "Chief Community Officer IEDC",
+        "designation2": "Cyber Security IG Lead µlearn",
+        "image": "/Teamphoto/geo.png",
+        "linkedIn": "https://www.linkedin.com/in/geomathewjoseph"
+      },
+      "mulearnC": {
+        "name": "Tomson J Finosh",
+        "designation": "Chief Marketing Officer IEDC",
+        "designation2": "Content Coordinator µlearn",
+        "image": "/Teamphoto/tomson.png",
+        "linkedIn": "https://www.linkedin.com/in/john-doe/"
+      },
+      "cooIEDC2": {
+        "name": "Karthik K",
+        "designation": "Chief Socials Officer IEDC",
+        "designation2": "Operations Lead µlearn",
+        "image": "/Teamphoto/Karthik.png",
+        "linkedIn": "https://www.linkedin.com/in/karthik-kumar-1908a4259/"
+      },
+      "marketingSubLeadIEDC": {
+        "name": "Aditi Ghosh",
+        "designation": "Creative Team Graphic Designer IEDC",
+        "designation2": "Design Team Lead µlearn",
+        "image": "/Teamphoto/aditi.png",
+        "linkedIn": "https://www.linkedin.com/in/aditi-ghosh-6688b5278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      "mulearnContentTeam": {
+        "name": "Nalin Jyothy ",
+        "designation": "Tech Lead µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/Nalin.png",
+        "linkedIn": "https://www.linkedin.com/in/notnalin"
+      },
+      "mulearnOperationLead": {
+        "name": "Johana Benedict",
+        "designation": "Social Media Lead µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/johana.png",
+        "linkedIn": "https://www.linkedin.com/in/johana-benedict-994a78305/"
+      },
+      "mulearn_content": {
+        "name": "Joshim Paul",
+        "designation": "Content Lead µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/Joshim.png",
+        "linkedIn": "https://www.linkedin.com/in/joshim-paul-95083a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+
+      "mulearnContentLead": {
+        "name": "Shibinsha S ",
+        "designation": "Sub Technical Officer IEDC",
+        "designation2": "Tech Coordinator µlearn",
+        "image": "/Teamphoto/Shibinsha.png",
+        "linkedIn": "https://www.linkedin.com/in/shibinsha365/"
+      },
+      "financeSubLeadIEDC": {
+        "name": "Janukrishna A S",
+        "designation": "Sub Community Officer IEDC",
+        "designation2": "Tech Coordinator µlearn",
+        "image": "/Teamphoto/Janu.png",
+        "linkedIn": "https://www.linkedin.com/in/janukrishna-a-s-4ba8301b2/"
+      },
+      
+      "financeLeadIEDC": {
+        "name": "Anas N",
+        "designation": "Sub Operations Officer",
+        "designation2": "",
+        "image": "/Teamphoto/anas.png",
+        "linkedIn": "https://www.linkedin.com/in/anas-n-5a845820a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
+      },
+      
+      
+      "marketingLeadIEDC": {
+        "name": "Vaishnav R S",
+        "designation": "Sub Finance Officer IEDC",
+        "designation2": "",
+        "image": "/Teamphoto/Vaishnav.png",
+        "linkedIn": "https://in.linkedin.com/in/vaishnav-rs-9079a8164 "
+      },
+      
+      "mulearn_opetion": {
+        "name": "Hannah Susan Thomas",
+        "designation": "Operations Coordinator",
+        "designation2": "",
+        "image": "/Teamphoto/hannah.png",
+        "linkedIn": "https://www.linkedin.com/in/hannah-susan-thomas-31859a2a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      
+      "opsSubLeadIEDC": {
+        "name": "Harisankar BL",
+        "designation": "Sub Creative Officer IEDC",
+        "designation2": "Media Team Member µlearn",
+        "image": "/Teamphoto/hari.png",
+        "linkedIn": "https://www.linkedin.com/in/hari-sankar-69518a321/"
+      },
+      
+      "mulearnCampusLead": {
+        "name": "Sneha Mariam Mani",
+        "designation": "Creative Team Graphic Designer IEDC",
+        "designation2": "Design Coordinator µLearn",
+        "image": "/Teamphoto/Sneha.png",
+        "linkedIn": "https://www.linkedin.com/in/sneha-mariam-mani-9367a0204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      "mulearnCampusLead1": {
+        "name": "Dhanush Vishwanathan",
+        "designation": "Sub Marketing Officer",
+        "designation2": "",
+        "image": "/Teamphoto/dhanush.png",
+        "linkedIn": "https://www.linkedin.com/in/dhanush-viswanathan-7b71b922b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      "contentWriterIEDC": {
+        "name": "Nandhitha Sumesh",
+        "designation": "Creative Team Content Writer IEDC",
+        "designation2": "",
+        "image": "/Teamphoto/NANDHITHA SUMESH.png",
+        "linkedIn": "https://www.linkedin.com/in/nandhitha-sumesh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
+      },
+      
+      
+      "mulearnTechLead": {
+        "name": "Nayanika B Gitanjali",
+        "designation": "Sub Documentation Officer IEDC",
+        "designation2": "µplay Campus Ambassador µlearn",
+        "image": "/Teamphoto/Nayanika.png",
+        "linkedIn": "https://in.linkedin.com/in/nayanika-b-gitanjali "
+      },
+      
+      "mulearnDesignTeam": {
+        "name": "Sai Vishnu M S ",
+        "designation": "Social Media Coordinator µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/Sai.png",
+        "linkedIn": "https://www.linkedin.com/in/sai-vishnu-m-s-8b36052b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      "mulearnUIUXIGLead": {
+        "name": "Bobson Gomez",
+        "designation": "UI/UX IG Lead µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/bobson.png",
+        "linkedIn": "https://www.linkedin.com/in/bobson-gomez-8369a8277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      "mulearnAIIGLead": {
+        "name": "Arjun Jayakumar",
+        "designation": "AI IG Lead µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/arjun jayakumar.png",
+        "linkedIn": "https://www.linkedin.com/in/definitelyarjun/"
+      },
+      "mulearnMediaLead": {
+        "name": "A K Amarjith",
+        "designation": "Media Lead µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/Amar.png",
+        "linkedIn": "https://www.linkedin.com/in/a-k-amarjith-056506296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      "mulearnMediaTeam1": {
+        "name": "Anandhu Anilkumar",
+        "designation": "Media Team µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/Anandhu.png",
+        "linkedIn": "https://www.linkedin.com/in/anandhu-anilkumar-701217321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      "mulearnMediaTeam2": {
+        "name": "Sanjay S",
+        "designation": "Media Team µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/Sanjay.png",
+        "linkedIn": "https://www.linkedin.com/in/sanjay-s-b70616317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      "mulearnMediaTeam3": {
+        "name": "Alen Suresh",
+        "designation": "Media Team µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/Alen.png",
+        "linkedIn": "https://www.linkedin.com/in/alen-suresh-6b572b321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      "mulearnMediaTeam5": {
+        "name": "Muhammed Yazeen",
+        "designation": "Media Team µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/Yazeen.png",
+        "linkedIn": "https://www.linkedin.com/in/muhammad-yazeen-938712321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+      },
+      "mulearnMediaTeam6": {
+        "name": "Shanu Sudhakaran",
+        "designation": "Media Team µlearn",
+        "designation2": "",
+        "image": "/Teamphoto/shanu.png",
+        "linkedIn": "https://in.linkedin.com/in/shanu-s-786711321"
+      }
+    
+  },
+  "discordLink": "https://discord.com/invite/Jt7sv3chZP",
+  "whatsAppLink": "",
+  "email": "mulearnmce@gmail.com",
+  "linkedIn": "https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A89590569&keywords=inspira%20marian%20iedc&origin=RICH_QUERY_SUGGESTION&position=0&searchId=7f211791-1a42-4559-af58-25ce25bb9a18&sid=nH!&spellCorrectionEnabled=false",
+  "instagram": "https://www.instagram.com/marianiedc/",
+  "facebook":"https://i.pinimg.com/1200x/72/8b/6c/728b6c0d58d7e6b29e91faf8a1a31bc4.jpg",
+  "twitter":"https://i.pinimg.com/1200x/72/8b/6c/728b6c0d58d7e6b29e91faf8a1a31bc4.jpg"
+}

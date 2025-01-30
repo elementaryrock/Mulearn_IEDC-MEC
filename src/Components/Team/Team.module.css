@@ -1,0 +1,51 @@
+.teamWrapper {
+    padding: 2rem;
+    background-color: #fff;
+    text-align: center;
+}
+
+.teamBodyWrapper {
+    display: grid;
+    gap: 1rem;
+    justify-items: center;
+}
+
+.teamMembersDetailsWrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 cards per row */
+    gap: 1rem;
+    width: 100%;
+    padding: 0 1rem; /* Add padding to the sides */
+    justify-content: center; /* Center align cards */
+}
+
+.teamCardWrapper {
+    width: auto;
+}
+
+.showMoreBtn {
+    margin-top: 10px;
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #ad58ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.showMoreBtn:hover {
+    background-color:#8e3dd4 ;
+}
+
+/* Media queries */
+@media screen and (max-width: 1024px) {
+    .teamMembersDetailsWrapper {
+        grid-template-columns: repeat(2, 1fr); /* 2 cards per row on smaller screens */
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .teamMembersDetailsWrapper {
+        grid-template-columns: 1fr; /* 1 card per row on mobile screens */
+    }
+}
