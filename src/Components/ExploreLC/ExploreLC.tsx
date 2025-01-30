@@ -21,10 +21,10 @@ const ExploreLC = () => {
           Share your groundbreaking ideas and shape the future with IEDC.
         </p>
         <div className={styles.buttonGroup}>
-          <a href="https://mulearn.org/" target="_blank" className={styles.button}>
+          <a href="https://mulearn.org/" target="_blank" className={styles.joinButton}>
             Join µLearn
           </a>
-          <button onClick={() => setIsOpen(true)} className={styles.button}>
+          <button onClick={() => setIsOpen(true)} className={styles.iedcButton}>
             IEDC Portal
           </button>
         </div>

@@ -26,7 +26,8 @@
 .gallery h2 {
     color: #ae59ff;
     font-size: 3rem;
-    font-weight: 800;
+    font-weight: 700;
+    font-family: 'Gilroy', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin: 0;
